@@ -1,6 +1,6 @@
 {
-    "name": "firstapp",
-    "short_name": "firstapp",
+    "name": "world_real_state",
+    "short_name": "world_real_state",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
